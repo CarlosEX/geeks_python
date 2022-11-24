@@ -6,3 +6,8 @@ Python is a programmig language that lets you work quickly and integrate systems
 There are two major Python versions: Python 2 and Python 3. Both are quite different.
 
 ## Beginning with Python programming:
+
+### 1) Finding an Interpreter:
+
+Before we start Python programming, we need to have an interpreter to interpret and run our programs. There are certain online interpreters like https://ide.geeksforgeeks.org/ that can be used to run Python programs without installing an interpreter.
+
